@@ -4,11 +4,10 @@
 ### Project done by
 
 <ul>
-  <li>LOGANTHAN D</li>
-  <li>PRITHIKA M</li>
-  <li>SABANA YASHMIN K</li>
-  <li>SETHUBHARATHI B</li>
-  <li>MOHANAPRIYA D</li>
+  <li>TARUN H</li>
+  <li>SHASTI ALAGAN R</li>
+  <li>MONISH KUMAR S S</li>
+  <li>AKASH R</li>
 </ul>
 
 ### How to run
